@@ -10,7 +10,7 @@ Or you can send me the picture(s) and transaction ID (proof of paiment) to: [dzh
 
 You need to pay the total amount* through PayPal at the link: [https://paypal.me/abdoudzhu] and send me the transaction ID at the same email with the pictures,
 
-* The list of prices:
+### The list of prices:
 
 - 1 to 5 images: 20 Euros for each image,
 
