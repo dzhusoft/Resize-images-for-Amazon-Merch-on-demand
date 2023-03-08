@@ -1,0 +1,1 @@
+# Resize-images-for-Amazon-Merch-on-demand
