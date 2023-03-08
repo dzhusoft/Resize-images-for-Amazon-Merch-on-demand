@@ -6,7 +6,17 @@ This is a service which enables the users to resize the images that are created 
 ## How to resize
 You can buy the tool fully at [https://github.com/dzhusoft/Image-resizer-for-Amazon-merch-on-demand]
 
-Or you can send me the picture(s) and transaction ID (proof of paiment) to: [dzhusoft@gmail.com]
+Or you can send me:
+
+- the picture(s),
+
+- preferred method of resizing (**Fit Inside**: to keep the ratio but only fit it inside the new sizes, or **Stretch**: to stretch the given picture to the new sizes),
+
+- list of preferred sizes* which you can get it from Amazon merch on demand website (Resources -> Download product templates) here [https://merch.amazon.com/resource/Y28FFE5NLRYJG4V]
+
+- We provide a maximum of 4 new sizes to resize for each image for the given prices down, any extra size would result in 2 Euros per extra size per image, new width and height for new size should be between 100px and 12000px,
+
+- and transaction ID (proof of paiment) to: [dzhusoft@gmail.com]
 
 You need to pay the total amount* through PayPal at the link: [https://paypal.me/abdoudzhu] and send me the transaction ID at the same email with the pictures,
 
