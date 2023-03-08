@@ -39,3 +39,6 @@ By using this service and paying the fee through the PayPal, you consent and agr
 - 21 to 50 images: 12 Euros for each image,
 
 - More than 50 image: 10 Euros for each image.
+
+### Please note:
+I will resize them and send them back as soon as I can, depending on my availability.
